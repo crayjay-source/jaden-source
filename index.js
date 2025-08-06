@@ -1,5 +1,4 @@
 console.log("jaden")
-background(0, 255, 162);
 var x = 200;
 var y = 250;
 
