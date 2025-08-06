@@ -2,5 +2,5 @@ h1 {
   font-size: 25px;
   color: purple;
  font-family: Arial, Helvetica, sans-serif;
-  background: linear-gradient(to right, purple, blue);
+  background: radial-gradient(to right, purple, blue);
 }
