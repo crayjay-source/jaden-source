@@ -2,7 +2,6 @@ console.log("jaden")
 var x = 200;
 var y = 250;
 
-noStroke();
 fill(30, 204, 91); // a nice froggy green!
 
 ellipse(x, y, 200, 100); // face
