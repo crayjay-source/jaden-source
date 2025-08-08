@@ -7,8 +7,11 @@
 body {
    background: linear-gradient(to right, purple, blue);
 }
+.a_test{
+color:#000000;
+}
 .repo-button{
-  radius:5px;
+  border-radius:5px;
   color: #40719c;
   background: #84accf;
 }
