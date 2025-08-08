@@ -8,7 +8,7 @@ body {
    background: linear-gradient(to right, purple, blue);
 }
 #repo-button{
-  color: #40719c
+  color: #40719c;
   background: #84accf;
 }
 #repo-button:hover {
