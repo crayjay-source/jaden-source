@@ -7,10 +7,10 @@
 body {
    background: linear-gradient(to right, purple, blue);
 }
-#repo button{
+#repo-button{
   color: #40719c
   background: #84accf
 }
-#repo button:hover {
+#repo-button:hover {
   background: #005aa8
 }
